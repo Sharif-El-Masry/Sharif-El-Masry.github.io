@@ -1,10 +1,10 @@
-## Portfolio
+## Projekte
 
 ---
 
-### Category Name 1 
+### Is this car a lemon?
 
-[Project 1 Title]((https://github.com/Sharif-El-Masry/is-this-car-a-lemon/blob/main/project%20lemon.ipynb)
+[Is this car a lemon?]((https://github.com/Sharif-El-Masry/is-this-car-a-lemon/blob/main/project%20lemon.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
