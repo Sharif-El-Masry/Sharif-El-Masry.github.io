@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title]((https://github.com/Sharif-El-Masry/is-this-car-a-lemon/blob/main/project%20lemon.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
