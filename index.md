@@ -2,21 +2,10 @@
 
 ---
 
-### Is this car a lemon?
+### Is this car a lemon? A machine learning classification algorithm to predict a "bad buy"
 
 [Is this car a lemon?](https://github.com/Sharif-El-Masry/is-this-car-a-lemon/blob/main/project%20lemon.ipynb)
 <img src="/images/mein_pairplot.png?raw=true"/>
-
-
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-
-
----
 
 
 
