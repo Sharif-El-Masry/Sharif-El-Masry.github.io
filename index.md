@@ -7,6 +7,10 @@
 [Project link](https://github.com/Sharif-El-Masry/is-this-car-a-lemon/blob/main/project%20lemon.ipynb)
 <img src="/images/mein_pairplot.png?raw=true"/>
 
+### Use case: ML for marketing and sales
+
+[Project link](https://github.com/Sharif-El-Masry/Machine-Learning-Projects/blob/main/use%20case.ipynb)
+
 
 
 
