@@ -10,6 +10,7 @@
 ### Use case: ML for marketing and sales
 
 [Project link](https://github.com/Sharif-El-Masry/Machine-Learning-Projects/blob/main/use%20case.ipynb)
+<img src="/images/Cluster.png?raw=true"/>
 
 
 
